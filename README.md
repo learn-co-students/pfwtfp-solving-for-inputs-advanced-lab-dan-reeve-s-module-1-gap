@@ -1,15 +1,17 @@
-# Title
+# Solving For Inputs Advanced
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Use object relations method for interpreting unfamiliar code
+- Hypothesize and test valid inputs
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- Given existing OO code, provide valid inputs to produce expected outputs
 
-#### SWBAT 2
+### Use object relations method for interpreting unfamiliar code
+
+### Hypothesize and test valid inputs
 
 ## Conclusion
 
