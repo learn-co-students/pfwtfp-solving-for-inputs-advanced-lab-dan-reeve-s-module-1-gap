@@ -1,18 +1,15 @@
-# Solving For Inputs Advanced
+# Working With Ruby Classes
 
-## Objectives
+## Learning Goals
 
-- Use object relations method for interpreting unfamiliar code
-- Hypothesize and test valid inputs
+- Interpret unfamiliar code
+- Analyze instance methods that relate multiple `Class`es
 
-## Introduction
+## Instructions
 
-- Given existing OO code, provide valid inputs to produce expected outputs
+In this lab, we will be practice reading object oriented code. In the `lib`
+folder, there are a number of existing, related Ruby `Class`es. Your task is to
+read through the code, then use your understanding of it to fill in the methods
+in `answers.rb`.
 
-### Use object relations method for interpreting unfamiliar code
-
-### Hypothesize and test valid inputs
-
-## Conclusion
-
-## Resources
+Run `learn` to see your progress.
